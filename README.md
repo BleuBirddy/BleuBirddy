@@ -1,6 +1,12 @@
-## Hello, My Name is Arantza Rivera
-## I can be reached at: rivera.57@wright.edu
-## I am majoring in Computer Engineering
+## Hello! 
+### My Name is Arantza Rivera 
+### **I am a current Computer Engineering student** 
+## Current Projects:
+- Website Hosted through Github
+- Paycheck Calculator
+- 
+## Future Projects:
+- MP3 & MP4 player with optional conversions
+- Agenda application with intense warnings/updates
 
-# I will be creating a website, hosted through github and a GUI paycheck calculator, this semester.
-## - Goal for these 2 projects is to create a resume website with the paycheck calculator.
+### I can be reached at: rivera.57@wright.edu
